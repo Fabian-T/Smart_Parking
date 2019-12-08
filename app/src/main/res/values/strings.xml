@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string name="log_in" />
+
+    <string-array name="Location">
+        <item>Select Location</item>
+        <item>MyTown Shopping Center</item>
+        <item>TimeSquares Shopping Center</item>
+        <item>Pavilion Elite</item>
+        <item>Pavilion Shopping Center</item>
+        <item>Sunway Putra Mall</item>
+        <item>Sunway Velocity Shopping Center</item>
+        <item>Sunway Lagoon</item>
+        <item>Feirenheit Shopping Center</item>
+        <item>The Mines Shopping Center</item>
+    </string-array>
+</resources>

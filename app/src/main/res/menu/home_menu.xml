@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/x"
+        android:title=" "
+        app:showAsAction="always"/>
+
+
+    <item
+        android:id="@+id/addMenu"
+        android:title="Notification"
+        android:icon="@drawable/notification_foreground"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/addMenu2"
+        android:title="Settings"
+        android:icon="@drawable/settings_foreground"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/addMenu3"
+        android:title="LogOut"
+        android:icon="@drawable/out_foreground"
+        app:showAsAction="always"/>
+
+
+
+
+</menu>
